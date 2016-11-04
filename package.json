@@ -1,0 +1,25 @@
+{
+  "name": "webpack-absolute-path",
+  "version": "1.0.0",
+  "description": "为html页面中的js与css添加cdn域名",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanjinliang/webpack-absolute-path.git"
+  },
+  "keywords": [
+	"jsCDN",
+	"cssCDN",
+    "CDN",
+    "webpack"
+  ],
+  "author": "xuanjinliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuanjinliang/webpack-absolute-path/issues"
+  },
+  "homepage": "https://github.com/xuanjinliang/webpack-absolute-path#readme"
+}
